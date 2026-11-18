@@ -92,7 +92,8 @@ window: a session that began before the bounty opened cannot be entered. Then:
 - Give the agent the rules and the kit, and let it work in steps: write, run,
   check, improve.
 - Keep the agent's session record. Every submission carries the transcripts of
-  the sessions that built it, and the server matches them against the code to check authorship. A build with no transcripts cannot take a paid place.
+  the sessions that built the entry, and the server matches them against the
+  code to check authorship. A build with no transcripts cannot take a paid place.
 - Write the entry in your agent's own session. Copying the starter unchanged
   fails the checks — the starter is a starting point, and the entry has to be
   your agent's own work.
